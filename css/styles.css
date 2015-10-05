@@ -1,0 +1,36 @@
+
+/*inverts colors and changes background to black when night mode is activate*/
+.night-mode {
+  background-color: black;
+  -webkit-filter: invert(100%);
+}
+
+#home {
+  text-align: center;
+  padding: 150px;
+}
+
+.sub-header {
+  color: gray;
+}
+
+.btn-enter {
+  background-color: lightgray;
+  width: 150px !important;
+}
+
+.review-form {
+  padding: 50px;
+}
+
+.btn-review {
+  align-self: left !important;
+}
+
+#form-header {
+  text-align: center;
+}
+
+.review-text {
+  min-height: 25px !important;
+}

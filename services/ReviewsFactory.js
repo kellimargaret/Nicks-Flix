@@ -3,28 +3,28 @@ nicksFlix.factory('ReviewsFactory', function ReviewsFactory() {
   // Five hard coded reviews
   factory.reviews = [
     {
-      title: "Citizen Kane: Properly Rated by Critics",
-      reviewBody: "Although Citizen Kane is generally regarded by critics to be one of the best movies of all-time, if not the single best movie ever, a lot of the general public views the movie as overrated and boring.  I entirely diasgree.  The story-telling was innovative and the cinematography (including ground-breaking use of deep-focus) is gorgeous and engaging by itself.",
+      title: "Hackers is the best movie ever!",
+      reviewBody: "In sapien velit, facilisis in dictum sit amet, sodales non metus. Sed viverra risus vitae risus pulvinar sagittis. Maecenas vel magna dapibus lectus consequat iaculis. Morbi porta vehicula lectus eu semper. Nullam eu dui pellentesque, vestibulum mi sed, laoreet diam. Cras mollis, est at sollicitudin mollis, ipsum augue tincidunt justo, id tincidunt ligula lacus ac nunc. Fusce consectetur quam eu velit congue, nec condimentum metus venenatis.",
       id: 1
     },
     {
-      title: "Most overrated comedy ever is Napoleon Dynamite",
-      reviewBody: "Chuckled once.  Laughed zero times.  Horribly boring.",
+      title: "Don't ever see Garden State",
+      reviewBody: "Praesent viverra justo eget tortor vulputate, eget mollis ipsum finibus. Nam eget bibendum ante. Praesent eget ante sapien. Integer orci purus, suscipit non vulputate ut, dignissim in eros. Etiam orci velit, laoreet in mi non, hendrerit blandit sem. Fusce maximus laoreet ligula sit amet euismod.",
       id: 2
     },
     {
-      title: "Godfather vs. Godfather: Part II",
-      reviewBody: "Considered by critcs and audiences alike as two of the greatest movies of all-time, the consensus on which is better is up-in-the-air.  While the first film has an enthralling and tightly constructed rise-to-power story for Michael, I prefer the second film's spralling nature, showing both a young Vito's ascension to Don and Michael's reign as the current head of the family (not to mention the heartbreaking ending).",
+      title: "My thoughts on the new Star Wars",
+      reviewBody: "Cras erat erat, placerat vel feugiat vel, maximus a ante. Curabitur eu diam at metus accumsan luctus vitae sed turpis. Etiam eget justo faucibus, interdum risus a, vehicula libero. Pellentesque tristique ligula quis libero pellentesque condimentum. Suspendisse massa leo, condimentum quis felis sed, tristique finibus mauris. ",
       id: 3
     },
     {
-      title: "The best Star Wars movie: The Phantom Menace",
-      reviewBody: "....on April Fool's Day.",
+      title: "Sharknado is a classic",
+      reviewBody: " Aliquam vestibulum quis augue eget condimentum. Nunc nec erat ac diam molestie lacinia vel at metus. Aliquam consequat congue sapien. Proin fermentum vitae ex vel sagittis. Mauris scelerisque risus eget maximus volutpat.",
       id: 4
     },
     {
-      title: "Bubble Boy....Jake Gyllenhaal's best movie",
-      reviewBody: "I mean...duh.",
+      title: "Check out the new Thor movie",
+      reviewBody: "Vivamus felis magna, accumsan sit amet leo vitae, molestie dignissim quam. Pellentesque vulputate ornare elementum. Maecenas et nibh rhoncus, hendrerit tortor in, porta mi. Nam pretium purus et tellus consectetur rutrum. Nulla ut tempor felis. Vestibulum non elit pulvinar, porta nisl id, ultrices nisi. Sed eu nibh justo. Nam sed suscipit enim, vel hendrerit velit.",
       id: 5
     }
   ];
